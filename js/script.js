@@ -1,10 +1,10 @@
 
 
-let userName = prompt('Ciao, Benvenuto come ti chiami?')
+let userName = prompt('Ciao, Benvenuto come ti chiami?');
 
-let userSecondName = prompt('Dimmi il tuo cognome.. e ti dirò chi sei')
+let userSecondName = prompt('Dimmi il tuo cognome.. e ti dirò chi sei');
 
-let favoriteColor = prompt('Qual è il tuo colore preferito?')
+let favoriteColor = prompt('Qual è il tuo colore preferito?');
 
 let passWord = userName + userSecondName + favoriteColor + 22
 
